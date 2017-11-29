@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510151204 source:d:\com prog 2\exercises\ex9-sphere calculations\main.cpp
+	<iostream>
+	<math.h>
+
